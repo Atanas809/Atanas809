@@ -7,5 +7,3 @@ Atanas809/Atanas809 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![giphy](https://user-images.githubusercontent.com/102140383/159434378-45f9e2c1-83bc-4ee6-b702-3e4c80834a59.gif)
-$[Atanas2380].$[7b2d0fc]
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
