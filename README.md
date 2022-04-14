@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atanas809
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python at Software University
 - 📫 How to reach me atanas2380@abv.bg
 
 <!---
