@@ -66,7 +66,7 @@
 
 If you want to reach out to me about anything, contact me 😉
 
-<a href="atanas_2380@abv.bg">
+<a href="mailto:atanas_2380@abv.bg">
  <img align="left" alt="Email" width="150" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/email_me.png" />
 </a>
 <a href="https://www.linkedin.com/in/atanas-bachev-643430254/">
