@@ -89,6 +89,8 @@ If you want to reach out to me about anything, contact me 😉
 
 *************
 
-![snake gif](https://github.com/Atanas809/Atanas809/blob/output/github-contribution-grid-snake.gif)
-
+<p align="center" >  
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanas809&" alt="atanas809" />
+  </p>
+  
 *************
