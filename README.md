@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello there! 👋
 
 <div align="center">
 <img hight="100" width="85%" alt="GIF" align="center" src="https://i.imgur.com/7A5ZfPJ.gif">
