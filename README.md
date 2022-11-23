@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 20 years old Backend Web Development with Python Enthusiast from Bulgaria.
+### - I'm 20 years old Backend Web Developer with Python Enthusiast from Bulgaria.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
